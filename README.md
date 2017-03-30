@@ -18,7 +18,7 @@ Eclipse
 ### Apesar de ser Descktop foi usados os seguintes Padrão de Projetos:
 DAO  
 DTO  
-BO
+BO  
 MVC
 
 ### Validações :
